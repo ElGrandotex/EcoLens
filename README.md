@@ -24,4 +24,4 @@ EcoLens es una innovadora aplicación móvil diseñada para abordar el desafío 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/ElGrandotex/ecolens.git](https://github.com/ElGrandotex/EcoLens.git)
+   git clone https://github.com/ElGrandotex/EcoLens.git
